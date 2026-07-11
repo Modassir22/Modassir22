@@ -1,5 +1,5 @@
 # 💫 About Me:
- <h4>A 4th year Computer Science student Pursuing B.Tech from Rungta<br>College of Engineering and Technology<<br>I'm Passionate Full Stack Developer, providing the best Web solution that works.</h4>
+ <h4>Hi, There My name is Modassir Imam and I have Completed B.Tech from Rungta<br>College of Engineering and Technology<<br>I'm Passionate Full Stack Developer, Right now I am in the path of DevOps and in future I want to Be a Cloud Engineer.</h4>
 
 
 ## 🌐 Socials:
